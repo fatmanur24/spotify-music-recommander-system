@@ -43,3 +43,5 @@ In the opened browser page select a song and click the `Show Recommendation` but
 
 If you want, I can also add instructions for how to generate `similarity.npy`, provide an example
 `music_data.csv` format, or create a `requirements.txt` file — tell me which you'd like.
+
+<img width="1892" height="830" alt="image" src="https://github.com/user-attachments/assets/93b0f3d1-7848-4d0d-944e-7df6fce5ef7a" />
