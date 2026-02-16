@@ -22,6 +22,8 @@ pip install streamlit spotipy pandas numpy
 **Required files**
 - `app.py` — main application script
 - `music_data.csv` — song dataset (should include at least `song` and `artist` columns)
+- `spotify_millsongdata.csv`:
+https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset?resource=download
 - `similarity.npy` — precomputed similarity matrix (NumPy format)
 
 Note: `CLIENT_ID` and `CLIENT_SECRET` are currently set directly in `app.py`.
